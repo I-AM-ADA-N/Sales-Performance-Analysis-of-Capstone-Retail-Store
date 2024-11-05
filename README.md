@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-of-Capstone-Retail-Store
+![Monthly Sales Totals, May 2024](https://github.com/user-attachments/assets/950daca6-c4e2-4ed7-8c0b-2c91bf41bde2)![Report Dashboard, Retail Store](https://github.com/user-attachments/assets/02771ff9-28ad-47b3-bdb8-ccf302e5511b)# Sales-Performance-Analysis-of-Capstone-Retail-Store
 
 
 ## Overview
@@ -71,6 +71,36 @@ iii. Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/pro
 
   ## Exploratory Data Analysis and Formulae Used
   ---
+
+  ![Average sales per product](https://github.com/user-attachments/assets/c98ad212-d126-40bf-84d1-ccf2d9f43f97)
+  
+  ![Pivot Tables, Retail Store](https://github.com/user-attachments/assets/dc40cdc5-8c9f-413f-ac27-8cd9ab407329)
+
+  ![SQL QUERIES FOR RETAIL STORE](https://github.com/user-attachments/assets/a05345f5-b46d-4b7c-8cc9-23c50b1ff16b)
+  
+  ![SQL QUERIES FOR RETAIL STORE2](https://github.com/user-attachments/assets/e39f6e21-e926-43d4-8c6d-d0bcfc078d4b)
+
+  
+  ## Data Visualizations
+  
+  ![Monthly Sales Totals, May 2024](https://github.com/user-attachments/assets/e4540cf4-dcf4-4098-8819-861c6a31c05c)
+![Report Dashboard, Retail Store](https://github.com/user-attachments/assets/e60b8377-43ac-428c-9e1c-9558cd27b3df)
+
+![SALES PERFORMANCE, CAPSTONE RETAIL STORE](https://github.com/user-attachments/assets/fcf2b429-3068-4231-ac87-fd442dd7000d)
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
 
 
     
