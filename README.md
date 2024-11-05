@@ -1,4 +1,12 @@
-![Monthly Sales Totals, May 2024](https://github.com/user-attachments/assets/950daca6-c4e2-4ed7-8c0b-2c91bf41bde2)![Report Dashboard, Retail Store](https://github.com/user-attachments/assets/02771ff9-28ad-47b3-bdb8-ccf302e5511b)# Sales-Performance-Analysis-of-Capstone-Retail-Store
+# Sales Performance Analysis of Capstone Retail Store
+
+[Overview](#overview)
+
+[Project Objectives](#project-objectives)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
 
 
 ## Overview
