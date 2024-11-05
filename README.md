@@ -69,14 +69,18 @@ iii. Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/pro
     - Data cleaning and formatting using functions Sum, Count, Avg.
     - Created pivot tables, dashboards and reports with filters
 
-    ii. SQL
-    - Querying of data with functions -
-    
-    ```SQL
-    select Product, Total_Sales as HighestSellingProduct from [dbo].[LITA Capstone Dataset RETAIL STORE] order by 2 desc
-    Select * from [dbo].[LITA Capstone Dataset RETAIL STORE]
-    select top 5 * from [dbo].[LITA Capstone Dataset RETAIL STORE] order by 8 desc
-    ```
+ ii. SQL
+ - Querying of data with functions -
+ 
+ ```SQL
+select sum (Total_Sales) as August2024TotalSales from [dbo].[LITA Capstone Dataset RETAIL STORE]
+where OrderDate between '2024-08-01' and '2024-08-31'
+
+Select * from [dbo].[LITA Capstone Dataset RETAIL STORE]
+
+select top 5 * from [dbo].[LITA Capstone Dataset RETAIL STORE]
+order by 8 desc
+```
 
     iii. Power BI
     - Connected to data
