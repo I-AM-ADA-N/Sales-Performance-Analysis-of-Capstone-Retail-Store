@@ -8,6 +8,10 @@
 
 [Tools Used](#tools-used)
 
+[Exploratory Data Analysis and Formulae Used](#exploratory-data-analysis-and-formulae-used)
+
+[Data visualizations](#data-visualizations)
+
 
 ## Overview
 ---
